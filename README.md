@@ -8,6 +8,8 @@ pourquoi l'intérêt pour ce langage ?
 - la sécurité qu'il apporte 
 - langage récent et qui apporte tout un ecosystème que j'adore 
 
+sur le site de rust un message qui en dit long sur les possibilités du language: Permettre à chacun de créer des logiciels fiables et efficaces.
+
 j'écris tout ce code avec Lunarvim que je recommande fortement même si je suis conscient que la configuration est un peu difficile mais le jeu en vaut la chandelle. 
 
 chaque exemple est compilé avec le compilateur cargo 
